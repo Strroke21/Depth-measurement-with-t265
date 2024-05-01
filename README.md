@@ -1,5 +1,5 @@
 """
-Getting started with python3, OpenCV and T265 on Ubuntu 16.04:
+Getting started with python3, OpenCV and T265 on Ubuntu 22.04:
 
 First, set up the virtual enviroment:
 
